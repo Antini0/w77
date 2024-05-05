@@ -1,0 +1,6 @@
+@wyk7_HostAddress = http://localhost:5236
+
+GET {{wyk7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
